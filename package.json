@@ -1,0 +1,6 @@
+{
+  "name": "hope-scholarship-ai",
+  "version": "1.0.0",
+  "description": "An AI-powered web application that automatically matches students with the most suitable scholarships.",
+  "private": true
+}
